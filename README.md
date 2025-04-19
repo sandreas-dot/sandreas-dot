@@ -6,13 +6,13 @@
 <hr>
 
 🔍 I’m currently learning ... html, css and website development. <br> <br>
-🐎 I’m looking to collaborate on ... the story of alicia, website development. <br> <br>
+🐎 I’m looking to collaborate on ... the story of alicia, website development. in-depth writing apps. <br> <br>
 <ul>
 <li>📨 How to reach me ...
    <ul>
-     <li>@discord is preferred, github for related information containing shared code.</li><br>
+     <li>@discord san.dreas is preferred, github for related information with shared projects.</li><br>
 🐬 Pronouns: ... he/they with female traits (assigned) <br> <br>
-⚡... very quick learner, following a decent attention-span</h7>
+</h7>
 
 
 <!---
