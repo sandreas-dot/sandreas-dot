@@ -2,7 +2,7 @@
 
 <h1>- 👋 Hi, I’m <b>@sandreas-dot</b></h1>
 <br>
-<h5>I’m interested in creating personalised writing sites and code others will enjoy, if supporting the cause of an interactive platform.</h5><br>
+<h5>I’m interested in creating personalised writing sites and code others will enjoy, if supporting the cause of an interactive platform.</h5>
 <hr>
 
 🔍 I’m currently learning ... html, css and website development. <br> <br>
